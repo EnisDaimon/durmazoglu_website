@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://durmazoglubesi.github.io/sitemap.xml
